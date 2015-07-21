@@ -18,7 +18,7 @@ The scorecard will be built much like a game of bowling itself; a series of fram
 After this I figure I'll add separate logic to leep the total accurate based on the separate rules for a spare and a strike (they're complicated, check them out here: http://en.wikipedia.org/wiki/Ten-pin_bowling#Scoring)
 
 #### 7th June 2015:
-I actually pursued Ptolemy and Stephen's codealong throughout the early satges so I could proceed through and gain an understanding of their working method. Their way of going into the challenge was very closely mirrored to my approach, so I followed along. Anything past basic frame functionality and the most basic scoreccard functionality is all my own work, and all my own mistakes.
+I actually pursued Ptolemy and Stephen's codealong throughout the early stages so I could proceed through and gain an understanding of their working method. Their way of going into the challenge was very closely mirrored to my approach, so I followed along. Anything past basic frame functionality and the most basic scoreccard functionality is all my own work, and all my own mistakes.
 
 
 ## USER STORIES
