@@ -1,26 +1,24 @@
-## BOWLING CHALLENGE
-=================
+# BOWLING CHALLENGE
 
 I am making a scorecard in Javascript which handles the tricky task of scoring a game of tenpin bowling using TDD and OOP techniques.
 
 ![men of bowling image](http://okcmod.com/wp-content/uploads/2012/10/Men-Bowling-vintage.jpg)
 
-# Design up front?
-
-1st June 2015:
-The scorecard will be built much like a game of bowling itself; a series of frames, adding to a running total. Once I've made one frame, I will aim to build logic for scoring a strike or a spare. Next up will be the running total functionality, to enable multiple frames to be played.
-
-After this I figure I'll add separate logic to leep the total accurate based on the separate rules for a spare and a strike (they're complicated, check them out here: http://en.wikipedia.org/wiki/Ten-pin_bowling#Scoring)
-
-7th June 2015:
-I actually pursued Ptolemy and Stephen's codealong throughout the early satges so I could proceed through and gain an understanding of their working method. Their way of going into the challenge was very closely mirrored to my approach, so I followed along. Anything past basic frame functionality and the most basic scoreccard functionality is all my own work, and all my own mistakes.
-
-Task:
------
+# Task:
 
 Count and sum the scores of a bowling game for one player (in JavaScript).
 
 A bowling game consists of 10 frames in which the player tries to knock down the 10 pins. In every frame the player can roll one or two times. The actual number depends on strikes and spares. The score of a frame is the number of knocked down pins plus bonuses for strikes and spares. After every frame the 10 pins are reset.
+
+# Design up front?
+
+#### 1st June 2015:
+The scorecard will be built much like a game of bowling itself; a series of frames, adding to a running total. Once I've made one frame, I will aim to build logic for scoring a strike or a spare. Next up will be the running total functionality, to enable multiple frames to be played.
+
+After this I figure I'll add separate logic to leep the total accurate based on the separate rules for a spare and a strike (they're complicated, check them out here: http://en.wikipedia.org/wiki/Ten-pin_bowling#Scoring)
+
+#### 7th June 2015:
+I actually pursued Ptolemy and Stephen's codealong throughout the early satges so I could proceed through and gain an understanding of their working method. Their way of going into the challenge was very closely mirrored to my approach, so I followed along. Anything past basic frame functionality and the most basic scoreccard functionality is all my own work, and all my own mistakes.
 
 
 ## USER STORIES
